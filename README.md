@@ -1,12 +1,13 @@
 # 🎲 Object Oriented Programming (OOPS)
 
+---
 ## 1. Core Object-Oriented Concepts
 
 - [🎲 What is OOPS?](notes/core-concepts/what-is-oops.md)
 - [🧑‍💻 Need of OOPS](notes/core-concepts/need-of-oops.md)
 - [🤩 Benefits of OOPS](notes/core-concepts/benefits-of-oops.md)
 - [🔥 Master the 4 Pillar of OOPS](notes/core-concepts/pillars-of-oops.md)
-
+---
 ## 2. Java Class & Object Essentials
 
 - [🏗️ Class & Class Definition](notes/class-and-object-essentials/class-and-class-definition.md)
@@ -25,4 +26,19 @@
 - [🐲 Method Overriding in Java](notes/class-and-object-essentials/method-overriding-in-java.md)
 - [📦 Object Instantiation](notes/class-and-object-essentials/object-instantiation.md)
 - [🫘 JavaBean Standards](notes/class-and-object-essentials/javabean.md)
+---
+## 3. Inheritance & Composition
 
+- [🧑‍🧒 Single Inheritance](notes/inheritance-composition/single-inheritance.md)
+- [🚼 Multilevel Inheritance](notes/inheritance-composition/multilevel-inheritance.md)
+- [🧑‍🧒‍🧒 Hierarchical Inheritance](notes/inheritance-composition/heirarchial-inheritance.md)
+- [🧑‍🧑‍🧒 Multiple Inheritance via Interfaces](notes/inheritance-composition/multiple-inheritance.md)
+- [👒 Composition (HAS-A)](notes/inheritance-composition/composition.md)
+- [🍬 Aggregation](notes/inheritance-composition/aggregation.md)
+- [🔗 Constructor Chaining in Inheritance](notes/inheritance-composition/constructor-chaining.md)
+- [🎏 Overriding toString()](notes/inheritance-composition/overriding-toString.md)
+- [🍻 Overriding equals() & hashCode()](notes/inheritance-composition/overriding-equals-hashcode.md)
+- [🈯 Covariant Return Types](notes/inheritance-composition/covariant-return-types.md)
+- [🍨 Hiding vs Overriding](notes/inheritance-composition/hiding-vs-overriding.md)
+---
+## 4. Encapsulation & Abstraction
