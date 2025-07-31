@@ -42,3 +42,15 @@
 - [🍨 Hiding vs Overriding](notes/inheritance-composition/hiding-vs-overriding.md)
 ---
 ## 4. Encapsulation & Abstraction
+
+- [🔭 Access Modifiers](notes/encapsulation-abstraction/access-modifiers.md)
+- [🍡 Getters & Setters](notes/encapsulation-abstraction/getter-setter.md)
+- [🤞 Immutable Classes](notes/encapsulation-abstraction/immutable-classes.md)
+- [🔍 Abstract Classes](notes/encapsulation-abstraction/abstract-classes.md)
+- [🔪 Abstract Methods](notes/encapsulation-abstraction/abstract-methods.md)
+- [✍️ Interface](notes/encapsulation-abstraction/interface.md)
+- [🍁 Interface Inheritance](notes/encapsulation-abstraction/interface-inheritance.md)
+- [💥 Interface Default Methods (Java 8)](notes/encapsulation-abstraction/interface-default-methods.md)
+- [✋ Interface Static Methods](notes/encapsulation-abstraction/interface-static-methods.md)
+- [🔇 Interface Private Methods (Java 9)](notes/encapsulation-abstraction/interface-private-methods.md)
+---
