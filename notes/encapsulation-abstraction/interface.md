@@ -165,4 +165,4 @@ class C implements A, B {
 > "A class **signs** the interface and promises to **deliver all services** defined by it."
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

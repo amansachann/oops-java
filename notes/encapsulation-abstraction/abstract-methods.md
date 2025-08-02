@@ -145,4 +145,4 @@ abstract class A {
 | Can be overloaded?     | ✅ Yes (same as any method)  |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

@@ -138,4 +138,4 @@ p.paint(new Rectangle()); // Drawing Rectangle 🟥
 * ✅ Keep method **focused on common behavior**, not child-specific logic  
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

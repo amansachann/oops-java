@@ -142,4 +142,4 @@ class Person {
 | Runtime flexibility?    | ❌ No (that's runtime polymorphism) |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

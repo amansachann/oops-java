@@ -155,4 +155,4 @@ s1.greet(); // Hi, I’m Aman
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

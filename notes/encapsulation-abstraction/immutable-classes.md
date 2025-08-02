@@ -124,4 +124,4 @@ System.out.println(s2); // HELLO
 | Thread-safe          | ✅ Yes                 |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

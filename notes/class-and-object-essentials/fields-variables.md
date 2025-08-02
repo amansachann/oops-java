@@ -155,4 +155,4 @@ class Student {
 | Parameter        | Method Header | Method execution   | Stack        | `void add(int a, int b)` |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

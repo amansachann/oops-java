@@ -190,4 +190,4 @@ Memory Stack:
 | Used in subclass | Always from child to parent           |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

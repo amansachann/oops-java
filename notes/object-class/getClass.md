@@ -118,4 +118,4 @@ Method[] methods = cls.getDeclaredMethods();
 | Output Example         | `class Student`, `java.lang.String`      |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

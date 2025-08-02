@@ -162,4 +162,4 @@ Object: Student s = new Student("Aman");
 | Avoid shadowing       | `this.name = name;` |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

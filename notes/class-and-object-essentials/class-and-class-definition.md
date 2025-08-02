@@ -142,4 +142,4 @@ public class Test {
 | Object | Real-world entity — actual data + behavior      |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

@@ -89,3 +89,15 @@
 ---
 
 ## 🧮 Advanced Class Design
+
+- [🚀 Final Classes](notes/advanced-class-design/final-classes.md)
+- [⚠️ Final Methods](notes/advanced-class-design/final-methods.md)
+- [⛔ Final Variables](notes/advanced-class-design/final-variables.md)
+- [🥊 Abstract vs Final vs Static](notes/advanced-class-design/abstract-final-static.md)
+- [🏀 Enum with Fields & Methods](notes/advanced-class-design/enum.md)
+- [📨 Varargs(...)](notes/advanced-class-design/varargs.md)
+- [〽️ Native Methods](notes/advanced-class-design/native-methods.md)
+- [🕹️ strictfp](notes/advanced-class-design/strictfp.md)
+- [🍹 transient](notes/advanced-class-design/transient.md)
+- [🍀 volatile](notes/advanced-class-design/volatile.md)
+- [🛡️ synchronized](notes/advanced-class-design/synchronized.md)

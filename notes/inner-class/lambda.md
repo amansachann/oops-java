@@ -168,4 +168,4 @@ System.out.println(sub.operate(10, 5)); // Output: 5
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

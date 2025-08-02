@@ -147,4 +147,4 @@ public boolean equals(Object obj) {
 | Commonly used in   | `Set`, `Map`, `List.contains()`, etc. |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

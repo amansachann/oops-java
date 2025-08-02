@@ -108,4 +108,4 @@ public class Main {
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

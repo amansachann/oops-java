@@ -168,4 +168,4 @@ new Student("Aman", 101);        // Two-arg
 ```
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

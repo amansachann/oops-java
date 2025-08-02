@@ -129,4 +129,4 @@ a.speak();  // ✅ Late binding (runtime pe method resolve hoti hai)
 | Late Binding  | Overriding, runtime polymorphism | `a.speak()` where `a = new Dog()` |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

@@ -124,4 +124,4 @@ a.sound();      // Cat meows 🐱 (Cat’s version called)
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

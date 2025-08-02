@@ -154,4 +154,4 @@ Stream<String> s = names.stream(); // ✅ Called via interface
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

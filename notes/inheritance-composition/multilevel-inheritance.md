@@ -178,4 +178,4 @@ d.strategize(); // own method
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

@@ -128,4 +128,4 @@ bean.setX(request.getParameter("x"));
 
 ---
 
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

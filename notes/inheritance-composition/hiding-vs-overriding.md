@@ -130,4 +130,4 @@ public class Test {
 | Behavior via parent | Executes child version | Executes parent version |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

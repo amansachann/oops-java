@@ -221,4 +221,4 @@ class Student extends Person {
 | `super.method()` | Call parent method                    |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)

@@ -163,4 +163,4 @@ System.out.println(a2.x); // Output: 6 ✅
 | Default Value   | Like instance vars (`0`, `null`, etc.) |
 
 ---
-[🏠 Back to Home](../../README.md)
+[🏠 Back to Home](../..)
