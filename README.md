@@ -1,13 +1,13 @@
 # 🎲 Object Oriented Programming (OOPS)
 
----
+
 ## 🎨 Core Object-Oriented Concepts
 
 - [📦 What is OOPS?](notes/core-concepts/what-is-oops.md)
 - [🧑‍💻 Need of OOPS](notes/core-concepts/need-of-oops.md)
 - [🤩 Benefits of OOPS](notes/core-concepts/benefits-of-oops.md)
 - [🔥 Master the 4 Pillar of OOPS](notes/core-concepts/pillars-of-oops.md)
----
+
 ## 📦 Java Class & Object Essentials
 
 - [🏗️ Class & Class Definition](notes/class-and-object-essentials/class-and-class-definition.md)
@@ -40,7 +40,7 @@
 - [🍻 Overriding equals() & hashCode()](notes/inheritance-composition/overriding-equals-hashcode.md)
 - [🈯 Covariant Return Types](notes/inheritance-composition/covariant-return-types.md)
 - [🍨 Hiding vs Overriding](notes/inheritance-composition/hiding-vs-overriding.md)
----
+
 ## 💊 Encapsulation & Abstraction
 
 - [🔭 Access Modifiers](notes/encapsulation-abstraction/access-modifiers.md)
@@ -53,7 +53,7 @@
 - [💥 Interface Default Methods (Java 8)](notes/encapsulation-abstraction/interface-default-methods.md)
 - [✋ Interface Static Methods](notes/encapsulation-abstraction/interface-static-methods.md)
 - [🔇 Interface Private Methods (Java 9)](notes/encapsulation-abstraction/interface-private-methods.md)
----
+
 
 ## 🎭 Polymorphism
 - [🧑‍💻 Compile-Time Polymorphism](notes/polymorphism/compile-time-polymorphism.md)
@@ -64,7 +64,7 @@
 - [🎲 instanceof Operator](notes/polymorphism/instanceof.md)
 - [🤿 Polymorphic Paramaters](notes/polymorphism/polymorphic-paramater.md)
 - [📒 Late Binding vs Early Binding](notes/polymorphism/static-dynamic-binding.md)
----
+
 
 ## 🎁 Object Class (java.lang.Object)
 
@@ -78,7 +78,7 @@
 - [👐 Shallow Copy & Deep Copy](notes/object-class/shallow-deep-copy.md)
 - [🚀 Cloneable](notes/object-class/cloneable.md)
 - [👨‍💻 Custom Clone Implementation](notes/object-class/custom-clone.md)
----
+
 
 ## ❇️ Nested, Inner, and Anonymous Classes
 - [⛓️‍💥 Static Inner Class](notes/inner-class/static-inner-class.md)
@@ -86,7 +86,7 @@
 - [🏡 Local Inner Class](notes/inner-class/local-inner-class.md)
 - [🐣 Anonymous Classes](notes/inner-class/anonymous-class.md)
 - [⚡ Lambda Expression (Java 8)](notes/inner-class/lambda.md)
----
+
 
 ## 🧮 Advanced Class Design
 
