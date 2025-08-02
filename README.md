@@ -1,14 +1,14 @@
 # 🎲 Object Oriented Programming (OOPS)
 
 ---
-## 1. Core Object-Oriented Concepts
+## 🎨 Core Object-Oriented Concepts
 
-- [🎲 What is OOPS?](notes/core-concepts/what-is-oops.md)
+- [📦 What is OOPS?](notes/core-concepts/what-is-oops.md)
 - [🧑‍💻 Need of OOPS](notes/core-concepts/need-of-oops.md)
 - [🤩 Benefits of OOPS](notes/core-concepts/benefits-of-oops.md)
 - [🔥 Master the 4 Pillar of OOPS](notes/core-concepts/pillars-of-oops.md)
 ---
-## 2. Java Class & Object Essentials
+## 📦 Java Class & Object Essentials
 
 - [🏗️ Class & Class Definition](notes/class-and-object-essentials/class-and-class-definition.md)
 - [🎨 Fields/Variables in Java](notes/class-and-object-essentials/fields-variables.md)
@@ -27,7 +27,7 @@
 - [📦 Object Instantiation](notes/class-and-object-essentials/object-instantiation.md)
 - [🫘 JavaBean Standards](notes/class-and-object-essentials/javabean.md)
 ---
-## 3. Inheritance & Composition
+## 👩‍🍼 Inheritance & Composition
 
 - [🧑‍🧒 Single Inheritance](notes/inheritance-composition/single-inheritance.md)
 - [🚼 Multilevel Inheritance](notes/inheritance-composition/multilevel-inheritance.md)
@@ -41,7 +41,7 @@
 - [🈯 Covariant Return Types](notes/inheritance-composition/covariant-return-types.md)
 - [🍨 Hiding vs Overriding](notes/inheritance-composition/hiding-vs-overriding.md)
 ---
-## 4. Encapsulation & Abstraction
+## 💊 Encapsulation & Abstraction
 
 - [🔭 Access Modifiers](notes/encapsulation-abstraction/access-modifiers.md)
 - [🍡 Getters & Setters](notes/encapsulation-abstraction/getter-setter.md)
@@ -54,3 +54,38 @@
 - [✋ Interface Static Methods](notes/encapsulation-abstraction/interface-static-methods.md)
 - [🔇 Interface Private Methods (Java 9)](notes/encapsulation-abstraction/interface-private-methods.md)
 ---
+
+## 🎭 Polymorphism
+- [🧑‍💻 Compile-Time Polymorphism](notes/polymorphism/compile-time-polymorphism.md)
+- [🏃‍♂️ Runtime Polymorphism](notes/polymorphism/runtime-polymorphism.md)
+- [⬆︎ Upcasting](notes/polymorphism/upcasting.md)
+- [⬇︎ Downcasting](notes/polymorphism/downcasting.md)
+- [🚛 Dynamic Method Dispatch](notes/polymorphism/dynamic-method-dispatch.md)
+- [🎲 instanceof Operator](notes/polymorphism/instanceof.md)
+- [🤿 Polymorphic Paramaters](notes/polymorphism/polymorphic-paramater.md)
+- [📒 Late Binding vs Early Binding](notes/polymorphism/static-dynamic-binding.md)
+---
+
+## 🎁 Object Class (java.lang.Object)
+
+- [✏️ toString()](notes/object-class/to-string.md)
+- [🔭 equals()](notes/object-class/equals.md)
+- [#️⃣ hashCode()](notes/object-class/hash-code.md)
+- [🌀 clone()](notes/object-class/clone.md)
+- [📜 Copy Constructor](notes/object-class/copy-constructor.md)
+- [🏌️‍♂️ finalize()](notes/object-class/finalize.md)
+- [🏂 getClass()](notes/object-class/getClass.md)
+- [👐 Shallow Copy & Deep Copy](notes/object-class/shallow-deep-copy.md)
+- [🚀 Cloneable](notes/object-class/cloneable.md)
+- [👨‍💻 Custom Clone Implementation](notes/object-class/custom-clone.md)
+---
+
+## ❇️ Nested, Inner, and Anonymous Classes
+- [⛓️‍💥 Static Inner Class](notes/inner-class/static-inner-class.md)
+- [🤖 Non-Static Inner Class](notes/inner-class/non-static-inner-class.md)
+- [🏡 Local Inner Class](notes/inner-class/local-inner-class.md)
+- [🐣 Anonymous Classes](notes/inner-class/anonymous-class.md)
+- [⚡ Lambda Expression (Java 8)](notes/inner-class/lambda.md)
+---
+
+## 🧮 Advanced Class Design
