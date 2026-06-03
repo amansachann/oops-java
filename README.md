@@ -8,6 +8,9 @@
 - [🤩 Benefits of OOPS](notes/core-concepts/benefits-of-oops.md)
 - [🔥 Master the 4 Pillar of OOPS](notes/core-concepts/pillars-of-oops.md)
 
+## 🔪 Declaration & Access Modifiers
+- [🧩 Java Source File Structure](notes/declation-access-modifiers/java-source-file-structrure.md)
+
 ## 📦 Java Class & Object Essentials
 
 - [🏗️ Class & Class Definition](notes/class-and-object-essentials/class-and-class-definition.md)
